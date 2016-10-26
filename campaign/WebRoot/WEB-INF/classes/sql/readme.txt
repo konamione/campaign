@@ -1,0 +1,9 @@
+com.webcam.wbcp.biz-------------业务包
+com.webcam.wbcp.config----------jfinal配置包
+com.webcam.wbcp.controller------控制层包
+com.webcam.wbcp.interceptor-----拦截器包
+com.webcam.wbcp.util------------工具包
+com.webcam.wbcp.vo--------------实体+dao包
+sql-----------------------------库表脚本、备份等
+db_conn_config.txt--------------数据库链接配置文件
+log4j.properties----------------日志配置文件

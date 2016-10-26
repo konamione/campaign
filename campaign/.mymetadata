@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="campaign"
+  id="myeclipse.1477212592299"
+  context-root="/campaign"
+  j2ee-spec="6.0"
+  archive="campaign.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
